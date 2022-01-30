@@ -1,7 +1,7 @@
 storage: ./storage
-# store: 
-#   memory:
-#     limit: 1000
+store: 
+  memory:
+    limit: 1000
 auth:
   htpasswd:
     file: ./htpasswd
